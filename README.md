@@ -13,4 +13,5 @@ List of Accela Github Resources. Pull Requests are Welcome!
 * [cityofasheville/coa-bc-steep-slope-calculator](https://github.com/cityofasheville/coa-bc-steep-slope-calculator) - A NodeJS Express App that exposes a REST API for Accela and web tool at mapwnc.org
 
 ## Libraries:
+* [michaelachrisco/accelapy](https://github.com/michaelachrisco/accelapy) - Accela Python Client Library
 * [axtheset/accela-ruby](https://github.com/axtheset/accela-ruby) - Accela Ruby Client Library
