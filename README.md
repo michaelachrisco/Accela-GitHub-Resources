@@ -12,6 +12,7 @@ List of Accela Github Resources. Pull Requests are Welcome!
 * [cityofasheville/ACA-wrapper-DSD](https://github.com/cityofasheville/ACA-wrapper-DSD) - Wrapper in which to iframe Accela Citizen Access
 * [cityofasheville/coa-bc-steep-slope-calculator](https://github.com/cityofasheville/coa-bc-steep-slope-calculator) - A NodeJS Express App that exposes a REST API for Accela and web tool at mapwnc.org
 * [Accela-Labs/emse-testing](https://github.com/Accela-Labs/emse-testing) - EMSE Testing components and tools
+* [ExpressionBuilderExport](https://gist.github.com/michaelachrisco/13a939dde0597fdbcf72b3c809f8d364) - Script that allows agencies to export their expressions into git/github. 
 
 ## Libraries:
 * [michaelachrisco/accelapy](https://github.com/michaelachrisco/accelapy) - Accela Python REST API Client Library
